@@ -6,9 +6,9 @@ excerpt: "About Me..."
 This project is meant to help students and researchers across University of Rochester create their
   own hosted academic website for free with GitHub. 
 
-## About this Site
+## About Me
 
-This project is a slight customization based off of some great work by 
+I study the effects of developmental ethanol exposure on cerebellar microglia and Purkinje cells.  
   [NC State University Libraries](https://www.lib.ncsu.edu/).
   The original project, called [`jekyll academic`](https://ncsu-libraries.github.io/jekyll-academic-docs/)
   has its own [github repository](https://github.com/NCSU-Libraries/jekyll-academic)
