@@ -3,8 +3,14 @@ layout: post-index
 title: Research
 ---
 
-Below you'll find explanations on how to create a site just like this and get it hosted
-  for free. 
+## [Majewska Lab](https://www.urmc.rochester.edu/labs/majewska.aspx)
+
+I joined Dr. Ania Majewska's laboratory at the University of Rochester in the Spring of 2020. 
+I examine cerebellar microglia and Purkinje cells in a mouse model of Fetal Alcohol Spectrum Disorders.
+
+## Liu Lab
+
+I worked with Dr. Wan-chun Liu at Colgate University for three years as an undergraduate research assistant. 
 
 <!-- # COMMENT EXPLAINING THIS PAGE -- 
 We're currently using this section of the site to host these tutorials,
