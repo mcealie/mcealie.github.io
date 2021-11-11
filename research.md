@@ -3,14 +3,36 @@ layout: post-index
 title: Research
 ---
 
-## [Majewska Lab](https://www.urmc.rochester.edu/labs/majewska.aspx)
+## Majewska Lab
 
-I joined Dr. Ania Majewska's laboratory at the University of Rochester in the Spring of 2020. 
-I examine cerebellar microglia and Purkinje cells in a mouse model of Fetal Alcohol Spectrum Disorders.
+I joined [Dr. Ania Majewska's laboratory](https://www.urmc.rochester.edu/labs/majewska.aspx) at the University of Rochester in the Spring of 2020. 
+The Majewska lab examines microglia-neuron interactions in the healthy and diseased brain.
+I examine the effects of developmental ethanol exposure on glia and neurons in a mouse model of Fetal Alcohol Spectrum Disorders. 
+Fetal alcohol spectrum disorders (FASD) are the most common cause of non-heritable, preventable mental disability with no known cure. 
+I believe the results from my research will provide new details about the mechanisms that translate alcohol exposure to neuropathology.
+
+During my rotation, I studied the effects of developmental ethanol exposure in microglia and astrocytes in the somatosensory cortex and hippocampus. 
+I performed immunohistochemistry, and was able to gain experience in confocal microscopy and different types of data analysis. 
+This work resulted in a second author publication in the [Journal of Neuroscience Research.](https://pubmed.ncbi.nlm.nih.gov/33606320/)
+
+After officially joining the Majewska lab, I switched my focus to the cerebellum. 
+I am currently examining how developmental ethanol impacts microglia state and immune responses in the cerebellum, and how these responses may affect microglia interactions with Purkinje cell neurons. 
+Additionally, I am studying how these responses to ethanol may be altered by peroxisome proliferator-activated receptor-γ (PPAR-γ) agonists, as these modulate immune activation. 
+Through this work, I have gained skills in cranial window implantations and in vivo imaging techniques. 
+Overall, I believe this research will further our understanding of how ethanol-induced microglia-mediated inflammation impacts Purkinje cells in the cerebellum and provide a potential therapeutic target for FASD. 
 
 ## Liu Lab
 
 I worked with Dr. Wan-chun Liu at Colgate University for three years as an undergraduate research assistant. 
+Dr. Liu’s laboratory studies genetic and environmental influences on vocal learning and communication in songbirds. 
+During my time in his lab I participated in a number of projects that examined how the environment affected song learning ability and brain circuits. 
+My contributions to this work were included in a publication accepted in [NeuroReport.](https://pubmed.ncbi.nlm.nih.gov/30601425/)
+The work was particularly exciting because it suggested that songbirds have prenatal auditory listening. 
+Additionally, I examined the relationship between movement and neurogenesis in zebra finches. 
+I injected birds with BrdU and performed immunohistochemistry to determine cell survival after birds were wing clipped to limit movement. 
+I collaborated with another student who studied song learning ability in the same birds. 
+This work provides further insight into the relationship between locomotor movement and the development of vocal-motor learning. 
+I presented this work as a Neuroscience Honors Thesis presentation at Colgate University.
 
 <!-- # COMMENT EXPLAINING THIS PAGE -- 
 We're currently using this section of the site to host these tutorials,
