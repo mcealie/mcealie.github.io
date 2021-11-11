@@ -28,6 +28,7 @@ Dr. Liu’s laboratory studies genetic and environmental influences on vocal lea
 During my time in his lab I participated in a number of projects that examined how the environment affected song learning ability and brain circuits. 
 My contributions to this work were included in a publication accepted in [NeuroReport.](https://pubmed.ncbi.nlm.nih.gov/30601425/)
 The work was particularly exciting because it suggested that songbirds have prenatal auditory listening. 
+
 Additionally, I examined the relationship between movement and neurogenesis in zebra finches. 
 I injected birds with BrdU and performed immunohistochemistry to determine cell survival after birds were wing clipped to limit movement. 
 I collaborated with another student who studied song learning ability in the same birds. 
