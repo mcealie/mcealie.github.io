@@ -12,4 +12,6 @@ I study the effects of developmental ethanol exposure on cerebellar microglia an
 
 I am the Chief Financial Officer of the [Graduate Student Society.](https://www.urmc.rochester.edu/education/graduate/current-students/graduate-student-society.aspx)
 
+I am the University of Rochester's [BioRender](https://biorender.com/) Campus Ambassador. 
+
   
