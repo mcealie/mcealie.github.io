@@ -22,6 +22,9 @@ PhD Candidate in Neuroscience
 ## Positions
 
 `2021 - Present`
+University of Rochester Campus Ambassador, BioRender
+
+`2021 - Present`
 Chief Financial Officer, Graduate Student Society at University of Rochester
 
 `2021 - Present`
