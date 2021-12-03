@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Test
+title: Fun
 ---
 
 ## Chief Financial Officer of the [Graduate Student Society](https://www.urmc.rochester.edu/education/graduate/current-students/graduate-student-society.aspx)
