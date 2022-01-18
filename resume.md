@@ -15,6 +15,10 @@ __Colgate University__
 BA in Neuroscience;
 Minor in Anthropology
 
+`2019 - 2021`
+__University of Rochester__
+MS in Neuroscience 
+
 `2019 - Present`
 __University of Rochester__
 PhD Candidate in Neuroscience 
