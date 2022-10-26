@@ -3,11 +3,18 @@ layout: page
 title: Activities
 ---
 
+## Graduate Community Assistant for [Graduate and Family Housing](https://www.rochester.edu/reslife/graduate/index.html)
+
+Graduate Community Assistants (GCAs) work for University of Rochester [Graduate and Family Housing](https://www.rochester.edu/reslife/graduate/index.html) to support 
+residents and build community. As a GCA, I welcome new residents, plan monthly programming, and disseminate university policy. I manage a budget of $400 per semester 
+and report to the Assistant Director of Graduate, Family & Off-Campus Housing. I attend various staff trainings and meetings throughout the school year with my fellow 
+GCAs. 
+
 ## Chief Financial Officer of the [Graduate Student Society](https://www.urmc.rochester.edu/education/graduate/current-students/graduate-student-society.aspx)
 
 The Graduate Student Society [(GSS)](https://www.urmc.rochester.edu/education/graduate/current-students/graduate-student-society.aspx) is a graduate student-run organization 
 that represents graduate students at the School of Medicine and Dentistry at the University of Rochester. We advocate for graduate students and plan social and academic events.
-As the CFO, I manage a yearly budget of $6,000. I also attend monthly leadership meetings with the Dean of Graduate Affairs to discuss issues related to graduate student life.
+As the CFO, I manage a yearly budget of $6,000. I also attend monthly leadership meetings with the Dean of Graduate Affairs to discuss issues related to graduate student life. I host monthly coffee hours for students and have planned various personal finance events. 
 I also serve on the Graduate Student Appreciation Week Committee with trainees and leaders across the University of Rochester campus. 
 
 
