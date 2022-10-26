@@ -24,3 +24,9 @@ I am the University of Rochester's [BioRender](https://biorender.com/) Campus Am
 As a Campus Ambassador, I introduce and promote BioRender to my fellow trainees and faculty at the University of Rochester. 
 I work with the BioRender team to host events at my university.
 Trainees and faculty can bring questions or suggestions about BioRender to me that I can pass along to improve the BioRender experience. 
+
+# Past Activities
+
+## Neuroscience Graduate Program Retreat Committee Member
+
+Former member of the [Neuroscience Graduate Program Retreat Committee](https://www.urmc.rochester.edu/education/graduate/phd/neurosciences/retreat.aspx). The Neuroscience Graduate Program hosts an annual department-wide retreat with invited speakers. 
