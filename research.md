@@ -17,8 +17,7 @@ This work resulted in a second author publication in the [Journal of Neuroscienc
 
 After officially joining the Majewska lab, I switched my focus to the cerebellum. 
 I am currently examining how developmental ethanol impacts microglia state and immune responses in the cerebellum, and how these responses may affect microglia interactions with Purkinje cell neurons. 
-Additionally, I am studying how these responses to ethanol may be altered by peroxisome proliferator-activated receptor-γ (PPAR-γ) agonists, as these modulate immune activation. 
-Through this work, I have gained skills in cranial window implantations and in vivo imaging techniques. 
+This work was funded by the National Institute on Alcohol Abuse and Alcoholism (NIAAA) as an F31 titled “Effects of Developmental Ethanol Exposure on Cerebellar Microglia and Purkinje Cells.”
 Overall, I believe this research will further our understanding of how ethanol-induced microglia-mediated inflammation impacts Purkinje cells in the cerebellum and provide a potential therapeutic target for FASD. 
 
 ## Liu Lab
@@ -26,14 +25,14 @@ Overall, I believe this research will further our understanding of how ethanol-i
 I worked with Dr. Wan-chun Liu at Colgate University for three years as an undergraduate research assistant. 
 Dr. Liu’s laboratory studies genetic and environmental influences on vocal learning and communication in songbirds. 
 During my time in his lab I participated in a number of projects that examined how the environment affected song learning ability and brain circuits. 
-My contributions to this work were included in a publication accepted in [NeuroReport.](https://pubmed.ncbi.nlm.nih.gov/30601425/)
+My contributions to this work were included in a publication in [NeuroReport.](https://pubmed.ncbi.nlm.nih.gov/30601425/)
 The work was particularly exciting because it suggested that songbirds have prenatal auditory listening. 
 
 Additionally, I examined the relationship between movement and neurogenesis in zebra finches. 
 I injected birds with BrdU and performed immunohistochemistry to determine cell survival after birds were wing clipped to limit movement. 
 I collaborated with another student who studied song learning ability in the same birds. 
 This work provides further insight into the relationship between locomotor movement and the development of vocal-motor learning. 
-I presented this work as a Neuroscience Honors Thesis presentation at Colgate University.
+I presented this work as a Neuroscience Honors Thesis presentation at Colgate University, which has now been published in [Communications Biology.](https://www.nature.com/articles/s42003-022-03533-3)
 
 <!-- # COMMENT EXPLAINING THIS PAGE -- 
 We're currently using this section of the site to host these tutorials,
