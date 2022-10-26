@@ -6,7 +6,7 @@ excerpt: "About Me..."
 
 ## About Me
 
-I am a 4th year Neuroscience PhD Candidate at the University of Rochester. I received my MS in Neuroscience when I successfully passed my PhD Qualifying Exam. This work was later funded by the National Institute on Alcohol Abuse and Alcoholism (NIAAA) as an F31 titled “Effects of Developmental Ethanol Exposure on Cerebellar Microglia and Purkinje Cells.” 
+I am a 4th year Neuroscience PhD Candidate at the University of Rochester. I received my MS in Neuroscience when I successfully passed my PhD Qualifying Exam. This [work](https://www.urmc.rochester.edu/news/publications/neuroscience/student-spotlight-makenna-cealie) was later funded by the National Institute on Alcohol Abuse and Alcoholism (NIAAA) as an F31 titled “Effects of Developmental Ethanol Exposure on Cerebellar Microglia and Purkinje Cells.” 
 
 I study the effects of developmental ethanol exposure on cerebellar microglia dynamics and their interactions with Purkinje cells using two-photon, in vivo imaging in [Dr. Ania Majewska's laboratory](https://www.urmc.rochester.edu/labs/majewska.aspx)  
 
