@@ -1,20 +1,20 @@
 
 # Site wide configuration
 
-title: MaKenna Cealie, MS
+title: #MaKenna Cealie, MS
 locale: en_US
 logo: # logo.png # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: MaKenna Cealie, MS
-  avatar: neURoscience-vol-15_323_pinkblack.jpg
-  bio: Neuroscience PhD Candidate at University of Rochester
-  email: makenna_cealie@urmc.rochester.edu
-  twitter: MaKenna_Cealie
-  linkedin: makenna-cealie
+  name: #MaKenna Cealie, MS
+  avatar: #neURoscience-vol-15_323_pinkblack.jpg
+  bio: #Neuroscience PhD Candidate at University of Rochester
+  email: #makenna_cealie@urmc.rochester.edu
+  twitter: #MaKenna_Cealie
+  linkedin: #makenna-cealie
   github: #mcealie
-  orcid: 0000-0003-4899-5628
+  orcid: #0000-0003-4899-5628
   researchgate: #researchgate username 
   mendeley: #mendeley username 
   google:
