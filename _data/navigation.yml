@@ -1,6 +1,6 @@
 # Site navigation links
-- title: Home
-  url: /
+#- title: Home
+ # url: /
 
 #- title: Contact
 #  url: /contact/
@@ -8,17 +8,17 @@
 # - title: Presentations
 #   url: /presentations/
 
-- title: Resume
-  url: /resume/
+#- title: Resume
+#  url: /resume/
   
 # - title: BioSketch
 #  url: /MYC_BioSketch.pdf
 
-- title: Research
-  url: /research/
+#- title: Research
+#  url: /research/
   
-- title: Activities
-  url: /activities/
+#- title: Activities
+#  url: /activities/
   
 
   
